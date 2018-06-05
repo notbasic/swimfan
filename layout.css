@@ -1,0 +1,63 @@
+﻿/*
+	The Swimming Spot
+	Author: jowell green
+	Date:   7may2015
+
+	Filename: layout.css
+*/
+
+header img {
+
+width: 100%;
+height: 20%;
+}
+
+body { 
+
+background: url("lane_lines.jpg") repeat;
+
+
+}
+
+
+body {
+
+margin: 0px auto;
+padding: 0px;
+line-height: 1.5em;
+width: 98%;
+max-width: 980px;
+min-width: 250px;
+font-family: Times New Roman, serif;
+}
+
+article iframe {
+border: 20px inset green;
+width: 60%;
+height: 50%;
+
+}
+article p1 img {
+
+width: 10%;
+height: 10%;
+}
+
+#footer {
+
+display: block;
+width: 100%;
+text-align: center;
+font-size: 0.8em;
+font-style: normal;
+font-variant: small-caps;
+border-top: 1px solid black;
+background-color: red;
+}
+
+nav li {
+list-style-type: none;
+display: inline;
+padding-right: 20px;
+}
+
